@@ -79,8 +79,8 @@ The application offers the following core features:
 
 **Visual Architecture Diagrams:**
 
-* **Overview Architecture:** [View Diagram (image1.gif)](https://github.com/UsmarHaider/blood.ai/blob/main/image/image1.gif)
-* **Detailed Architecture:** [View Diagram (image2.gif)](https://github.com/UsmarHaider/blood.ai/blob/main/image/image2.gif)
+* **Overview Architecture:** [View Diagram (image1.gif)](https://github.com/UsmarHaider/blood.ai/blob/main/images/image1.gif)
+* **Detailed Architecture:** [View Diagram (image2.gif)](https://github.com/UsmarHaider/blood.ai/blob/main/images/image2.gif)
 
 *(Note: The diagrams above provide visual representations of the system components and their interactions.)*
 
