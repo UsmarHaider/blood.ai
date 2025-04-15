@@ -225,4 +225,8 @@ If you use Blood.AI in your research, please cite:
 }
 📧 Contact
 Usmar Haider - GitHub Profile
+<<<<<<< HEAD
 Project Link: https://github.com/UsmarHaider/blood.ai
+=======
+Project Link: https://github.com/UsmarHaider/blood.ai
+>>>>>>> e4a971e1c39ee34d4dd987e2c6e63325ea2d1ef3
